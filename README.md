@@ -69,7 +69,7 @@ Los 3 dispositivos deben estar activos durante la demo de 5 minutos:
 
 ## Video demo
 El video de demostración (`videoDemo/`) no se aloja en este repositorio por su tamaño. Disponible en:
-- [Video de la demo](PON_AQUI_EL_ENLACE_DE_DRIVE_OR_YOUTUBE)
+- [Video de la demo](https://www.youtube.com/watch?v=PWa8pDfFVqE)
 
 ## Release
 v1.0 - Ecosistema completo: wearable + teléfono + Smart TV
