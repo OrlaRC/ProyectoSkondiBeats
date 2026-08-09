@@ -1,0 +1,1 @@
+// D-pad navigation initialized in app.js after grid is rendered

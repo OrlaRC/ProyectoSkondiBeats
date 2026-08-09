@@ -1,0 +1,22 @@
+name: skondit_wearable
+description: SkonditBeats Wear OS - sensor simulator with BLE NOTIFY (GATT server)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ble_peripheral: ^2.4.0
+  permission_handler: ^11.3.1
+  flutter_bluetooth_serial: ^0.4.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
