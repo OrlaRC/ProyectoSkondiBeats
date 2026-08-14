@@ -29,7 +29,7 @@ html, body { width: 100%; height: 100%; overflow: hidden; background: #0B0B0B; c
 .logo { font-size: 2rem; color: #FACC15; font-weight: bold; letter-spacing: 0.5px; }
 .logo .note { margin-right: 8px; }
 #status-info { display: flex; align-items: center; gap: 20px; }
-#clock { font-size: 1.6rem; color: #FFFFFF; font-weight: 600; }
+#clock { font-size: 130px; color: #FFFFFF; font-weight: 600; }
 #date { font-size: 1.25rem; color: #A1A1AA; }
 .status-dot { width: 14px; height: 14px; border-radius: 50%; }
 .status-dot.connected { background: #2AC227; box-shadow: 0 0 12px rgba(42, 194, 39, 0.7); }
@@ -50,7 +50,7 @@ html, body { width: 100%; height: 100%; overflow: hidden; background: #0B0B0B; c
 #sidebar { width: 280px; display: flex; flex-direction: column; gap: 16px; }
 .nav-item {
   background: #1E1E1E; color: #FFFFFF; border: 3px solid transparent;
-  padding: 20px 24px; font-size: 1.5rem; border-radius: 12px; cursor: pointer;
+  padding: 20px 24px; font-size: 40px; border-radius: 12px; cursor: pointer;
   text-align: left; display: flex; align-items: center; gap: 16px; transition: all 0.2s;
 }
 .nav-item .nav-icon { font-size: 2rem; }
