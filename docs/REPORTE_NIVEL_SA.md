@@ -175,9 +175,9 @@ Todos los datos del catálogo (beats, portadas, audio) provienen de la **API rea
 | Prueba modo offline: SW sirve app sin red | ✅ | Reinstala la PWA desde cache al desconectar la red. |
 | Prueba de sincronización <2 s | ✅ | Poll de 2 s; el cambio en el teléfono se ve en la TV ≤2 s (verificado en vivo). |
 | Evidencia con screenshots de los 3 dispositivos (≥5) | ✅ | Se capturaron screenshots del flujo (login amarillo, monitor conectado, player con portada, wearable mostrando el beat). *Adjuntar al entregable.* |
-| Documento firmado con fecha | ⚠️ | Firma/pegada al final (ver footer). |
+| Documento firmado con fecha | ✅ | Firmado por Orlando Rubio Cabrera, 13/08/2026 (footer de `docs/plan_pruebas.md`). |
 
-**Subtotal SA.5: 7/8 ✅**
+**Subtotal SA.5: 8/8 ✅**
 
 ---
 
