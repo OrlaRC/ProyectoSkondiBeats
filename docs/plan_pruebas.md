@@ -27,4 +27,4 @@
 
 ## Documento firmado
 
-Firma: __Firma pendiente de autor (Sara/OrlaRC)__  Fecha: __13/08/2026__
+Firma: __Orlando Rubio Cabrera__  Fecha: __13/08/2026__
